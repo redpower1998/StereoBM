@@ -6,6 +6,7 @@ An implementation of the classic stereo vision Block Matching(BM) algorithm.
 This code implements a classic stereo BM algorithm.
 This is not a very fast implementation. But it is simple enough.
 
+#### [中国镜像](https://gitee.com/redpower/StereoBM) ####
 
 [![Demo video](images/screen1.jpg)]
 [![Demo video](images/screen2.jpg)]
